@@ -1,0 +1,1 @@
+install pandas, Run pd.read_excel() on the fake loan list, print the columns
